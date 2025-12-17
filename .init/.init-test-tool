@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/tmp/kavia/workspace/code-generation/elegant-beauty-blog-4174-4184/fastapi_backend"
+}
